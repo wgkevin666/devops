@@ -83,6 +83,7 @@
 - 新維運概念，該起飛了
 - 參考: 
     </br>[https://github.com/cncf/landscape](https://github.com/cncf/landscape)
+    </br>[https://docs.google.com/presentation/d/1BoxFeENJcINgHbKfygXpXROchiRO2LBT-pzdaOFr4Zg/edit#slide=id.g39c264972c_182_212]
 
 ### 開源社團
 
