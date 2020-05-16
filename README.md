@@ -88,3 +88,7 @@
 ### 開源社團
 
 - https://hackmd.io/@SITCON/floss-community-list?fbclid=IwAR2bdbcjTNXhF1c8oe0bSsXGk3_lBMTHdsQd6XzwK34peY9VH2b2BZc6j14
+
+### K8S
+
+- https://docs.google.com/presentation/d/1dlKAt_h4pqkmyWkl2V1NVgAs8M0Jhysi_3PSzuVQwWk/edit#slide=id.g35f391192_00
